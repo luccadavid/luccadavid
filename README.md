@@ -1,4 +1,3 @@
-### Hi there 👋
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/david-lucca-0186501b9/"><i>David Lucca</i></a></h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.sptech.school"><i>SPTech</i></a><br>E esse é meu Git pessoal
@@ -7,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/luccadavid">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccadavid&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccadavid&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccadavid&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccadavid&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
